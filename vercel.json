@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://notion.so/$1"}
+      {"src": "/(.*)","dest": "https://www.notion.so/$1"}
   ]
 }
